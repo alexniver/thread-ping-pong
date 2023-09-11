@@ -1,0 +1,1 @@
+two thread ping pong example useing std::thread and tokio mpsc [blocking_send](https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.Sender.html#method.blocking_send)/[blocking_recv](https://docs.rs/tokio/latest/tokio/sync/broadcast/struct.Receiver.html#method.blocking_recv);
